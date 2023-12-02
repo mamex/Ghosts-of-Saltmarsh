@@ -1,0 +1,4 @@
+---
+Place Found:
+  - "[[Castle Naerytar]]"
+---
