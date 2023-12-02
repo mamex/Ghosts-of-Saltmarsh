@@ -1,0 +1,4 @@
+---
+People Met:
+  - "[[Keledek]]"
+---
